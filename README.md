@@ -4,7 +4,7 @@
 
 👩🏻‍💻 Fullstack developer with over 4 years of experience in building robust and scalable web applications<br/>
 👩🏻‍🎓 Studied [Computer Engineering](https://doece.pcampus.edu.np/index.php/bce/) at Khwopa College of Engineering<br/>
-🎨 My portfolio [aabhasdhaubnja.com.np](https://www.youtube.com/c/MagdelineHuang)<br/>
+🎨 My portfolio [aabhasdhaubnja.com.np](https://aabhasdhaubanja.com.np)<br/>
 🎵 My work [playlist](https://youtu.be/9f5zD7ZSNpQ?si=b6PR6WdrrUwxC7Pb/)<br/>
 💭 Currently learning [Cardano](https://cardano.org/)!<br/>
 
